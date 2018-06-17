@@ -6,5 +6,7 @@ Guides to Installations, Configurations etc.
 
 [Maven Setup](https://github.com/isudarsan/document-inventory/wiki/Apache-Maven-Setup)
 
+[Tomcat 7 Setup](https://github.com/isudarsan/document-inventory/wiki/Apache-Tomcat-7-Setup)
+
 
 
