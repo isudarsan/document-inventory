@@ -8,5 +8,7 @@ Guides to Installations, Configurations etc.
 
 [Tomcat 7 Setup](https://github.com/isudarsan/document-inventory/wiki/Apache-Tomcat-7-Setup)
 
+[Solr data import from MySql](https://github.com/isudarsan/document-inventory/wiki/Import-data-from-MySQL-to-Solr)
+
 
 
